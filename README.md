@@ -1,6 +1,6 @@
 -  Hi, I’m @mehulghub
 -  I’m a self-taught Machine Learning enthusiast
--  My interests lie in Natural Language Processing and Data Science integrated with curiosity
+-  My interests lie in Data Science integrated with my curiosity
 -  I’m looking to contribute/collaborate on projects where I can learn more about the latest technologies in AI/ML
 -  Please reach out to me via LinkedIn. Here is the link: https://www.linkedin.com/in/mehul-kumar-546a14200
 
